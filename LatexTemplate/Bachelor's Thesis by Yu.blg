@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Bachelor's Thesis by Yu.aux
+The style file: ieeetr.bst
+Database file #1: sample.bib
+A bad cross reference---entry "lv2007multi"
+refers to entry "DBLP:conf/vldb/2007", which doesn't exist
+A bad cross reference---entry "wang2014privacy"
+refers to entry "DBLP:conf/infocom/2014", which doesn't exist
+A bad cross reference---entry "DBLP:conf/ccs/KamaraPR12"
+refers to entry "DBLP:conf/ccs/2012", which doesn't exist
+A bad cross reference---entry "ye2017video"
+refers to entry "DBLP:conf/sigir/2017", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/vldb/2007"
+Warning--I didn't find a database entry for "DBLP:conf/infocom/2014"
+Warning--I didn't find a database entry for "DBLP:conf/sigir/2017"
+Warning--I didn't find a database entry for "DBLP:conf/ccs/2012"
+Warning--empty year in liinstantcryptogram
+Warning--empty booktitle in de2018semantic
+Warning--can't use both volume and number fields in de2018semantic
+You've used 14 entries,
+            1876 wiz_defined-function locations,
+            570 strings with 6522 characters,
+and the built_in function-call counts, 4150 in all, are:
+= -- 395
+> -- 173
+< -- 0
++ -- 63
+- -- 49
+* -- 300
+:= -- 579
+add.period$ -- 15
+call.type$ -- 14
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 220
+empty$ -- 400
+format.name$ -- 49
+if$ -- 1001
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 15
+newline$ -- 46
+num.names$ -- 14
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 139
+stack$ -- 0
+substring$ -- 291
+swap$ -- 86
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 41
+width$ -- 16
+write$ -- 133
+(There were 4 error messages)

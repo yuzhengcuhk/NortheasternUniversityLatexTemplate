@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:journals/tdsc/LiYLLZS16}
+H.~Li, Y.~Yang, T.~H. Luan, X.~Liang, L.~Zhou, and X.~S. Shen, ``Enabling
+  fine-grained multi-keyword search supporting classified sub-dictionaries over
+  encrypted cloud data,'' {\em {IEEE} Trans. Dependable Sec. Comput.}, vol.~13,
+  no.~3, pp.~312--325, 2016.
+
+\bibitem{DBLP:journals/tpds/XiaWSW16}
+Z.~Xia, X.~Wang, X.~Sun, and Q.~Wang, ``A secure and dynamic multi-keyword
+  ranked search scheme over encrypted cloud data,'' {\em {IEEE} Trans. Parallel
+  Distrib. Syst.}, vol.~27, no.~2, pp.~340--352, 2016.
+
+\bibitem{lv2007multi}
+Q.~Lv, W.~Josephson, Z.~Wang, M.~Charikar, and K.~Li, ``Multi-probe {LSH:}
+  efficient indexing for high-dimensional similarity search,'' in {\em The 33rd
+  International Conference on Very Large Data Bases}, pp.~950--961, 2007.
+
+\bibitem{wang2014privacy}
+B.~Wang, S.~Yu, W.~Lou, and Y.~T. Hou, ``Privacy-preserving multi-keyword fuzzy
+  search over encrypted data in the cloud,'' in {\em {IEEE} Conference on
+  Computer Communications, {INFOCOM}}, pp.~2112--2120, 2014.
+
+\bibitem{aswani2012fuzzy}
+P.~N. Aswani and K.~C. Shekar, ``Fuzzy keyword search over encrypted data using
+  symbol-based trie-traverse search scheme in cloud computing,'' {\em CoRR},
+  vol.~abs/1211.3682, 2012.
+
+\bibitem{liinstantcryptogram}
+Minghui, M.~Zhang, Q.~Wang, S.~S. Chow, M.~Du, Y.~Chen, and C.~Li,
+  ``Instantcryptogram: Secure image retrieval service,'' in {\em IEEE
+  International Conference on Computer Communications, {INFOCOM}}.
+
+\bibitem{boneh2008graduate}
+D.~Boneh and V.~Shoup, ``A graduate course in applied cryptography,'' {\em
+  Version 0.1, from http://cryptobook. net}, 2008.
+
+\bibitem{katz2014introduction}
+J.~Katz and Y.~Lindell, {\em Introduction to modern cryptography}.
+\newblock CRC press, 2014.
+
+\bibitem{DBLP:conf/ccs/KamaraPR12}
+S.~Kamara, C.~Papamanthou, and T.~Roeder, ``Dynamic searchable symmetric
+  encryption,'' in {\em the {ACM} Conference on Computer and Communications
+  Security, CCS}, pp.~965--976, 2012.
+
+\bibitem{DBLP:journals/ijcv/Lowe04}
+D.~G. Lowe, ``Distinctive image features from scale-invariant keypoints,'' {\em
+  International Journal of Computer Vision}, vol.~60, no.~2, pp.~91--110, 2004.
+
+\bibitem{DBLP:journals/corr/abs-1212-0402}
+K.~Soomro, A.~R. Zamir, and M.~Shah, ``{UCF101:} {A} dataset of 101 human
+  actions classes from videos in the wild,'' {\em CoRR}, vol.~abs/1212.0402,
+  2012.
+
+\bibitem{ye2017video}
+Y.~Ye, Z.~Zhao, Y.~Li, L.~Chen, J.~Xiao, and Y.~Zhuang, ``Video question
+  answering via attribute-augmented attention network learning,'' in {\em The
+  40th International {ACM} {SIGIR} Conference on Research and Development in
+  Information Retrieval}, pp.~829--832, 2017.
+
+\bibitem{de2018semantic}
+M.~H.~T. de~Boer, ``Semantic mapping in video retrieval,'' vol.~51,
+  pp.~161--162, 2017.
+
+\bibitem{DBLP:journals/tcsv/YinTZ18}
+Y.~Yin, R.~Thapliya, and R.~Zimmermann, ``Encoded semantic tree for automatic
+  user profiling applied to personalized video summarization,'' {\em {IEEE}
+  Trans. Circuits Syst. Video Techn.}, vol.~28, no.~1, pp.~181--192, 2018.
+
+\end{thebibliography}
